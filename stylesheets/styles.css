@@ -3,9 +3,8 @@
 body {
   padding:50px;
   font:14px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color:#181818;
+  color:#777;
   font-weight:300;
-  background-color: #99CCFF;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -23,7 +22,6 @@ h1, h2, h3 {
 
 h1 {
   font-size:28px;
-  font-family: "Abel"";
 }
 
 h2 {
@@ -35,7 +33,7 @@ h3, h4, h5, h6 {
 }
 
 a {
-  color:#330066;
+  color:#39c;
   font-weight:400;
   text-decoration:none;
 }
